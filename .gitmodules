@@ -1,0 +1,6 @@
+[submodule "SerialFrame"]
+	path = SerialFrame
+	url = https://github.com/pboon09/SerialFrame.git
+[submodule "Micro-ROS-with-Nucleo-board"]
+	path = Micro-ROS-with-Nucleo-board
+	url = https://github.com/pboon09/Micro-ROS-with-Nucleo-board.git
