@@ -8,8 +8,8 @@ Each toolkit lives in its own repository and is included here as a git submodule
 
 | Toolkit | What it is |
 |---------|------------|
-| [Micro-ROS-with-Nucleo-board](Micro-ROS-with-Nucleo-board) | Ready-to-build micro-ROS firmware template for the STM32 Nucleo-G474RE (FreeRTOS + LPUART/DMA transport). |
-| [SerialFrame](SerialFrame) | C library for bidirectional, fixed-layout binary serial framing between STM32 and MATLAB/Simulink (Waijung). |
+| [Micro-ROS-with-Nucleo-board](https://github.com/pboon09/Micro-ROS-with-Nucleo-board) | Ready-to-build micro-ROS firmware template for the STM32 Nucleo-G474RE (FreeRTOS + LPUART/DMA transport). |
+| [SerialFrame](https://github.com/pboon09/SerialFrame) | C library for bidirectional, fixed-layout binary serial framing between STM32 and MATLAB/Simulink (Waijung). |
 
 ## Guides
 
